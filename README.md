@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @dnclain
 
-👀 I’m interested in teaching code and code architecture. I speak fluently ... 'programming mind' (Incidentally PHP, Golang, Python, Java ecosystem, Typescript and C++)
+👀 I’m interested in teaching code and code architecture. I speak fluently pseudo-code (Incidentally PHP, Golang, Python, Java ecosystem, Typescript and C++)
 
 🌱 I’m currently learning C++ 17 / Rust / Code generation / Practical IA / Design System 
 
